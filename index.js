@@ -2,12 +2,6 @@ import { createStore } from 'redux';
 
 // store
 
-
-// reducer
-
-// const vishal = (state = { amount: 1 }, action) => {
-//     return state
-// }
 const store = createStore(reducer);
 
 // reducer
